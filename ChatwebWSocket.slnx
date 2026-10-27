@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChatwebSocket.Tests/ChatwebSocket.Tests.csproj" />
+  <Project Path="ChatwebSocket/ChatwebSocket.csproj" />
+</Solution>

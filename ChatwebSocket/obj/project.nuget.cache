@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gh4cY8ANxJs=",
+  "success": true,
+  "projectFilePath": "/home/deureck/Projects/C#/ChatwebSocket/ChatwebSocket.csproj",
+  "expectedPackageFiles": [
+    "/home/deureck/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.data.sqlite.core/10.0.14/microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore/10.0.14/microsoft.entityframeworkcore.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.14/microsoft.entityframeworkcore.abstractions.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.14/microsoft.entityframeworkcore.analyzers.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.14/microsoft.entityframeworkcore.relational.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.14/microsoft.entityframeworkcore.sqlite.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.14/microsoft.entityframeworkcore.sqlite.core.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.extensions.dependencymodel/10.0.14/microsoft.extensions.dependencymodel.10.0.14.nupkg.sha512",
+    "/home/deureck/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512",
+    "/home/deureck/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.13/sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "/home/deureck/.nuget/packages/sqlitepclraw.core/2.1.13/sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "/home/deureck/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.13/sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "/home/deureck/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.13/sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
