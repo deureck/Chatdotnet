@@ -1,11 +1,9 @@
 using System.Xml;
 
+namespace ChatwebSocket;
 
-
-
-class Messager
+public class Messager
 {
-
     public UniqueId Uid { get; set; }
     public UniqueId UserId { get; set; }
     public string Body { get; set; }
@@ -16,5 +14,4 @@ class Messager
         this.UserId = userId;
         this.Body = body;
     }
-
 }

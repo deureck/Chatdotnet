@@ -1,6 +1,8 @@
 using System.Xml;
 
-class User
+namespace ChatwebSocket;
+
+public class User
 {
     public UniqueId Uid { get; set; }
     public string Nickname { get; set; }
@@ -8,8 +10,8 @@ class User
 
     public User(UniqueId uid, string nickname, string email)
     {
-        this.Uid = uid;
-        this.Nickname = nickname;
-        this.Email = email;
+        Uid = uid;
+        Nickname = nickname;
+        Email = email;
     }
 }
